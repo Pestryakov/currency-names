@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Настройки PyCharm (чтобы не ломать настройки другим разработчикам)
+.idea/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Системные файлы Mac и Windows
+.DS_Store
+Thumbs.db
